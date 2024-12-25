@@ -429,6 +429,8 @@
 -analyzer:"D:/6000.0.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"D:/6000.0.32f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
 "Assets/Camera/CameraHandler.cs"
+"Assets/Entitys/Functionalities/DamageCollider.cs"
+"Assets/Entitys/Functionalities/Entity.cs"
 "Assets/Entitys/Player/Player_Scripts/DashAbility.cs"
 "Assets/Entitys/Player/Player_Scripts/InputSystem.cs"
 "Assets/Entitys/Player/Player_Scripts/Player.cs"
