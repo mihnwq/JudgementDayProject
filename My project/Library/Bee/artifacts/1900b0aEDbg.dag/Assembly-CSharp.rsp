@@ -431,6 +431,7 @@
 "Assets/Camera/CameraHandler.cs"
 "Assets/Entitys/Enemys/EnemyAi/Astar.cs"
 "Assets/Entitys/Enemys/EnemyAi/Grid.cs"
+"Assets/Entitys/Enemys/EnemyAi/Heap.cs"
 "Assets/Entitys/Enemys/EnemyAi/Node.cs"
 "Assets/Entitys/Functionalities/DamageCollider.cs"
 "Assets/Entitys/Functionalities/Entity.cs"
